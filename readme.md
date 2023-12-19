@@ -1,5 +1,5 @@
 # Orderboy
-Simple order app counting the price of the prodcuts selected and payed written in elm.  
+Simple order app calculating the price of the prodcuts selected and payed written in elm.  
 by Philine & Izzy
 
 ## Compilation
